@@ -39,6 +39,15 @@ Es el más común de todos los tipos, ya que es el utilizado en los hogares. Se 
 
 Para poder hacer esto el router hace uso de los puertos. En los protocolos TCP y UDP se disponen de 65.536 puertos para establecer conexiones. De modo que cuando una máquina quiere establecer una conexión, el router guarda su IP privada y el puerto de origen y los asocia a la IP pública y un puerto al azar. Cuando llega información a este puerto elegido al azar, el router comprueba la tabla y lo reenvía a la IP privada y puerto que correspondan.
 
+## Tarea 4: ¿Como se divide una dirección fisica?
+
+Una dirección fisica se divide de la siguiente manera:
+* Los primeros 6 digitos pertenecen al fabricante.
+* Los siguientes 6 digitos le pertenecen al dispositivo.
+
+<p align="center">
+  <img src="" alt="Imagen direccion MAC" width="500">
+</p>
 
 
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
