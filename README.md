@@ -7,11 +7,14 @@ La tarea fue dada durante la primera clase en fecha 21 de mayo.
 Solo pude resolver el primer laboratorio debido a que en los otros dos la pagina me mencionaba que era un cuarto premium.
 Imagen para comprobación del avance:
 <p align="center">
-  <img src="" alt="Imagen comprobación avances tarea 1" width="738">
+  <img src="https://github.com/SebastianBarreraVargas/TareasCursoSeguridad-SCESI/blob/main/ImagenesGeneral/ImagenesClase1/Tarea1Completada.png" alt="Imagen comprobación avances tarea 1" width="500">
 </p>
 Imagen para comprobación de que se pide cuartos premium para los cursos 1 y 2:
 <p align="center">
-  <img src="" alt="Imagen comprobación cuartos premium" width="738">
+  <img src="https://github.com/SebastianBarreraVargas/TareasCursoSeguridad-SCESI/blob/main/ImagenesGeneral/ImagenesClase1/Prueba1.png" alt="Imagen comprobación cuartos premium1" width="500">
+</p>
+<p align="center">
+  <img src="https://github.com/SebastianBarreraVargas/TareasCursoSeguridad-SCESI/blob/main/ImagenesGeneral/ImagenesClase1/Prueba2.png" alt="Imagen comprobación cuartos premium2" width="500">
 </p>
 
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
