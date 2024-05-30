@@ -17,5 +17,11 @@ Imagen para comprobación de que se pide cuartos premium para los cursos 1 y 2:
   <img src="https://github.com/SebastianBarreraVargas/TareasCursoSeguridad-SCESI/blob/main/ImagenesGeneral/ImagenesClase1/Prueba2.png" alt="Imagen comprobación cuartos premium2" width="500">
 </p>
 
+## Tarea 2: Laboratorio de HTTP in Detail
+En la imagen se puede ver la tarea 100% completa.
+<p align="center">
+  <img src="" alt="Imagen comprobación cuartos premium2" width="500">
+</p>
+
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
 [enlaceSCESI]: https://www.scesi.org
