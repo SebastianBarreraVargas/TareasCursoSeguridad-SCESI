@@ -67,5 +67,9 @@ Tenemos:
 
 3. Anycast: En este tipo de comunicación, la transmisión es de uno a muchos, pero los datos no se envían a todos los receptores, sino solo a los más cercanos. 
 
+## Tarea 6: ¿Como funciona las tablas ARP en un switch?
+
+ARP es un protocolo de resolución de direcciones, se utiliza para realizar un seguimiento de los dispositivos conectados en el switch. Dentro de este ultimo se tiene la tabla que tiene la dirección IP y MAC de lo que este conectado al SWITCH. Cuando un paquete necesita ser ruteado a un dispositivo determinado, el switch busca la dirección IP del dispositivo en su tabla ARP para obtener la dirección MAC del dispositivo de destino. Nos muestra que dispositivos estan conectados, tambien se puede agregar manualmente dispositivos.
+
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
 [enlaceSCESI]: https://www.scesi.org
