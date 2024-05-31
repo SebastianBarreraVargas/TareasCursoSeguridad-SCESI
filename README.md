@@ -71,5 +71,11 @@ Tenemos:
 
 ARP es un protocolo de resolución de direcciones, se utiliza para realizar un seguimiento de los dispositivos conectados en el switch. Dentro de este ultimo se tiene la tabla que tiene la dirección IP y MAC de lo que este conectado al SWITCH. Cuando un paquete necesita ser ruteado a un dispositivo determinado, el switch busca la dirección IP del dispositivo en su tabla ARP para obtener la dirección MAC del dispositivo de destino. Nos muestra que dispositivos estan conectados, tambien se puede agregar manualmente dispositivos.
 
+## Tarea 7: ¿Como funciona DHCP?
+
+Es un protocolo que se utiliza para asignar dinamicamente una dirección IP a los dispositivos de forma automatica sin hacer una configuración manual.
+
+Cuando se quiere acceder a una red que usa este protocolo, se le pide una direccion IP y este manda una IP, luego supervisa el uso de la dirección y la recupera después de un tiempo determinado, cuando el dispositivo se apaga o cuando el equipo sale de la red.
+
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
 [enlaceSCESI]: https://www.scesi.org
