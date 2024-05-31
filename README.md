@@ -49,6 +49,23 @@ Una dirección fisica se divide de la siguiente manera:
   <img src="" alt="Imagen direccion MAC" width="500">
 </p>
 
+## Tarea 5: Clases de IP
+
+* Clase A: De 10.0.0.0 a 10.255.255.255, que son utilizadas generalmente para grandes redes privadas, por ejemplo de alguna multinacional.
+
+* Clase B: De 172.16.0.0 a 172.31.255.255, que son usadas para redes medianas, como de alguna empresa local, escuela o universidad.
+
+* Clase C: 192.168.0.0 a 192.168.255.255, que son usadas para las redes más pequeñas, como redes domésticas.
+
+* Direcciones IP multicast: Utilizadas para la transmisión de datos a múltiples destinatarios simultáneamente, son esenciales en aplicaciones como transmisiones en vivo y videoconferencias.
+
+Tenemos:
+
+1. Unicast: La comunicación va desde un único origen hasta un destinatario concreto. En este caso, hay un único emisor y receptor, y se utiliza para enviar o recibir datos.
+
+2. Broadcast: Este tipo de comunicación posibilita el envío de datos a todos los usuarios dentro de la misma red local.
+
+3. Anycast: En este tipo de comunicación, la transmisión es de uno a muchos, pero los datos no se envían a todos los receptores, sino solo a los más cercanos. 
 
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
 [enlaceSCESI]: https://www.scesi.org
