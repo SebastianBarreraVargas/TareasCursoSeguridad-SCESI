@@ -46,7 +46,7 @@ Una dirección fisica se divide de la siguiente manera:
 * Los siguientes 6 digitos le pertenecen al dispositivo.
 
 <p align="center">
-  <img src="" alt="Imagen direccion MAC" width="500">
+  <img src="https://github.com/SebastianBarreraVargas/TareasCursoSeguridad-SCESI/blob/main/ImagenesGeneral/ImagenesClase2/ImagenDireccionMAC.png" alt="Imagen direccion MAC" width="500">
 </p>
 
 ## Tarea 5: Clases de IP
@@ -67,6 +67,10 @@ Tenemos:
 
 3. Anycast: En este tipo de comunicación, la transmisión es de uno a muchos, pero los datos no se envían a todos los receptores, sino solo a los más cercanos. 
 
+<p align="center">
+  <img src="https://github.com/SebastianBarreraVargas/TareasCursoSeguridad-SCESI/blob/main/ImagenesGeneral/ImagenesClase2/ClasesDeIP.webp" alt="Imagen Clases de IP" width="500">
+</p>
+
 ## Tarea 6: ¿Como funciona las tablas ARP en un switch?
 
 ARP es un protocolo de resolución de direcciones, se utiliza para realizar un seguimiento de los dispositivos conectados en el switch. Dentro de este ultimo se tiene la tabla que tiene la dirección IP y MAC de lo que este conectado al SWITCH. Cuando un paquete necesita ser ruteado a un dispositivo determinado, el switch busca la dirección IP del dispositivo en su tabla ARP para obtener la dirección MAC del dispositivo de destino. Nos muestra que dispositivos estan conectados, tambien se puede agregar manualmente dispositivos.
@@ -82,6 +86,10 @@ Cuando se quiere acceder a una red que usa este protocolo, se le pide una direcc
 La puerta de enlace predeterminada, o Gateway, es un dispositivo que conecta dos o más redes informáticas. Actúa como un intermediario, guiando el tráfico de datos entre estas redes. Este dispositivo tiene una dirección IP privada y una dirección IP pública. La dirección IP privada se utiliza dentro de la red local, mientras que la dirección IP pública se utiliza para la red exterior.
 
 Basicamente ayuda a conectarse con el exterior.
+
+<p align="center">
+  <img src="https://github.com/SebastianBarreraVargas/TareasCursoSeguridad-SCESI/blob/main/ImagenesGeneral/ImagenesClase2/Default-gateway-con-Packet-Tracer.png" alt="Imagen direccion MAC" width="500">
+</p>
 
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
 [enlaceSCESI]: https://www.scesi.org
