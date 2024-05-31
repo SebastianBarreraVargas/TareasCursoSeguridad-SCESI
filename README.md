@@ -77,5 +77,11 @@ Es un protocolo que se utiliza para asignar dinamicamente una dirección IP a lo
 
 Cuando se quiere acceder a una red que usa este protocolo, se le pide una direccion IP y este manda una IP, luego supervisa el uso de la dirección y la recupera después de un tiempo determinado, cuando el dispositivo se apaga o cuando el equipo sale de la red.
 
+## Tarea 8: ¿Como funciona la puerta de enlace predeterminada?
+
+La puerta de enlace predeterminada, o Gateway, es un dispositivo que conecta dos o más redes informáticas. Actúa como un intermediario, guiando el tráfico de datos entre estas redes. Este dispositivo tiene una dirección IP privada y una dirección IP pública. La dirección IP privada se utiliza dentro de la red local, mientras que la dirección IP pública se utiliza para la red exterior.
+
+Basicamente ayuda a conectarse con el exterior.
+
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
 [enlaceSCESI]: https://www.scesi.org
