@@ -158,5 +158,13 @@ Hay 65536 puertos aunque no todos se llegan a usar.
 * Puertos registrados: los puertos registrados van desde el puerto 1024 hasta al 49151. La principal diferencia de estos puertos, es que las diferentes organizaciones pueden hacer solicitudes a la IANA para que se le otorgue un determinado puerto por defecto, y se le asignará para su uso con una aplicación en concreto. Estos puertos registrados están reservados, y ninguna otra organización podrá registrarlos nuevamente, no obstante, normalmente están como «semireservados», porque si la organización deja de utilizarlo podrá reutilizarse por otra empresa. Un claro ejemplo de puerto registrado es el 3389, se utiliza para las conexiones RDP de Escritorio Remoto en Windows.
 * Puertos efímeros: estos puertos van desde el 49152 hasta el 65535, este rango de puertos se utiliza por los programas del cliente, y están constantemente reutilizándose. Este rango de puertos normalmente se utiliza cuando está transmitiendo a un puerto conocido o reservado desde otro dispositivo, como en el caso de web o FTP pasivo. Por ejemplo, cuando nosotros visitamos una web, el puerto de destino siempre será el 80 o el 443, pero el puerto de origen (para que los datos sepan cómo volver) hace uso de un puerto efímero.
 
+## Tarea 13: ¿Que es Docker?
+
+Es una plataforma de software que te permite crear, probar e implementar aplicaciones de manera sencilla en contenedores. Estos contenedores son como máquinas virtuales muy livianas, lo que te da la flexibilidad de crear, implementar, copiar y mover tus aplicaciones de un entorno a otro, optimizando así las aplicaciones para la nube.
+
+Docker utiliza el kernel de Linux y sus funciones para dividir los procesos y ejecutarlos de manera independiente. Esto permite que varias aplicaciones funcionen en diferentes entornos complejos. Por ejemplo, Docker te permite ejecutar el sistema de gestión de contenidos WordPress en sistemas Windows, Linux y macOS sin ningún problema.
+
+Los contenedores Docker comparten el sistema operativo del anfitrión, mientras que las máquinas virtuales tienen un sistema operativo invitado que se ejecuta sobre el sistema anfitrión.
+
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
 [enlaceSCESI]: https://www.scesi.org
