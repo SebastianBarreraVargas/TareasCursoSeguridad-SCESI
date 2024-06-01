@@ -170,5 +170,21 @@ Docker utiliza el kernel de Linux y sus funciones para dividir los procesos y ej
 
 Los contenedores Docker comparten el sistema operativo del anfitrión, mientras que las máquinas virtuales tienen un sistema operativo invitado que se ejecuta sobre el sistema anfitrión.
 
+# Clase 4
+
+## Tarea 14: Diferencia entre PUT y POST
+
+* `PUT`: Este actualiza lo que esta disponible en el servidor, reemplaza lo que esta en la URL por otra cosa. Puede sobreescribir y es idemponente (el resultado no cambia sin importar cuantas veces lo envies).
+* `POST`: Este a diferencia de `PUT` no es idemponente lo cual genera que al enviarlo mas veces pueda tener efectos adicionales.
+
+<details>
+    <summary> Abreme para ver la explicación de un ejemplo  :exclamation: :exclamation:</summary>
+  
+Imagina que estás utilizando el método POST para enviar un formulario de registro en un sitio web. Cada vez que envías el formulario, se crea una nueva cuenta de usuario. Si envías el mismo formulario dos veces, se crean dos cuentas de usuario diferentes, aunque los datos del formulario sean los mismos. Esto es porque el método POST está diseñado para enviar y procesar datos, pero no para reemplazar o actualizar datos existentes.
+
+Peroooo, si utilizas el método PUT para actualizar la información de un usuario existente y envías la misma solicitud varias veces, la información del usuario no cambiará después de la primera solicitud, porque PUT es idempotente y está diseñado para actualizar datos existentes.
+
+</details>
+
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
 [enlaceSCESI]: https://www.scesi.org
