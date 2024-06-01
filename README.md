@@ -132,5 +132,39 @@ Aqui estan los avances:
   <img src="https://github.com/SebastianBarreraVargas/TareasCursoSeguridad-SCESI/blob/main/ImagenesGeneral/Clase1Sabado/Captura%20de%20pantalla%202024-05-31%20215046.png" alt="Imagen comprobante hack the box" width="500">
 </p>
 
+# Clase 3
+
+## Tarea 9: ¿Que es un ataque DOS?
+
+Un ataque de denegación de servicio (DoS) es un tipo de ciberataque en el que un actor malicioso tiene como objetivo que un ordenador u otro dispositivo no esté disponible para los usuarios a los que va dirigido, interrumpiendo el funcionamiento normal del mismo. Los ataques DoS suelen funcionar al sobrecargar o inundar una máquina objetivo con solicitudes hasta que el tráfico normal es incapaz de ser procesado, lo que provoca una denegación de servicio a los usuarios de la adición. Un ataque DoS se caracteriza por utilizar un único ordenador para lanzar el ataque.
+
+En el caso de los ataques DDoS, se realizan peticiones o conexiones empleando un gran número de ordenadores o direcciones IP. Estas peticiones se realizan todas al mismo tiempo y hacia el mismo servicio objeto del ataque. Un ataque DDoS es más difícil de detectar, ya que el número de peticiones proviene desde diferentes IP´s y el administrador no puede bloquear la IP que está realizando las peticiones, como sí ocurre en el ataque DoS.
+
+Los ordenadores que realizan el ataque DDoS son reclutados mediante la infección de un malware, convirtiéndose así en bots o zombis, capaces de ser controlados de forma remota.
+
+## Tarea 10: ¿Como funcionan los puertos?
+
+Los puertos se utilizan para identificar un terminal de conexión y dirigir datos a un servicio. Hay puertos virtuales y físicos. Los puertos aparecen en la Capa 4, la capa de transporte, del modelo OSI.
+
+Funcionan como puertas de entrada por las que los servidores y máquinas cliente intercambian información. Por ejemplo, un servidor web puede atender simultáneamente las peticiones de páginas web a través del puerto 80 para HTTP y del puerto 443 para HTTPS, mientras un cliente de correo electrónico puede recibir e-mails a través del puerto 993.
+
+## Tarea 11: ¿Cuantos puertos existen?
+
+Hay 65536 puertos aunque no todos se llegan a usar.
+
+## Tarea 12: Tipos de puertos
+
+* Puertos conocidos: los puertos conocidos (well-known en inglés) van desde el puerto 0 hasta al 1023, están registrados y asignados por la Autoridad de Números Asignados de Internet (IANA). Por ejemplo, en este listado de puertos está el puerto 20 de FTP-Datos, el puerto 21 de FTP-Control, el puerto 22 de SSH, puerto 23 de Telnet, puerto 80 y 443 para web (HTTP y HTTPS respectivamente), y también el puerto de correo entre otros muchos protocolos de la capa de aplicación.
+* Puertos registrados: los puertos registrados van desde el puerto 1024 hasta al 49151. La principal diferencia de estos puertos, es que las diferentes organizaciones pueden hacer solicitudes a la IANA para que se le otorgue un determinado puerto por defecto, y se le asignará para su uso con una aplicación en concreto. Estos puertos registrados están reservados, y ninguna otra organización podrá registrarlos nuevamente, no obstante, normalmente están como «semireservados», porque si la organización deja de utilizarlo podrá reutilizarse por otra empresa. Un claro ejemplo de puerto registrado es el 3389, se utiliza para las conexiones RDP de Escritorio Remoto en Windows.
+* Puertos efímeros: estos puertos van desde el 49152 hasta el 65535, este rango de puertos se utiliza por los programas del cliente, y están constantemente reutilizándose. Este rango de puertos normalmente se utiliza cuando está transmitiendo a un puerto conocido o reservado desde otro dispositivo, como en el caso de web o FTP pasivo. Por ejemplo, cuando nosotros visitamos una web, el puerto de destino siempre será el 80 o el 443, pero el puerto de origen (para que los datos sepan cómo volver) hace uso de un puerto efímero.
+
+## Tarea 13: ¿Que es Docker?
+
+Es una plataforma de software que te permite crear, probar e implementar aplicaciones de manera sencilla en contenedores. Estos contenedores son como máquinas virtuales muy livianas, lo que te da la flexibilidad de crear, implementar, copiar y mover tus aplicaciones de un entorno a otro, optimizando así las aplicaciones para la nube.
+
+Docker utiliza el kernel de Linux y sus funciones para dividir los procesos y ejecutarlos de manera independiente. Esto permite que varias aplicaciones funcionen en diferentes entornos complejos. Por ejemplo, Docker te permite ejecutar el sistema de gestión de contenidos WordPress en sistemas Windows, Linux y macOS sin ningún problema.
+
+Los contenedores Docker comparten el sistema operativo del anfitrión, mientras que las máquinas virtuales tienen un sistema operativo invitado que se ejecuta sobre el sistema anfitrión.
+
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
 [enlaceSCESI]: https://www.scesi.org
