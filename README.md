@@ -148,5 +148,9 @@ Los puertos se utilizan para identificar un terminal de conexión y dirigir dato
 
 Funcionan como puertas de entrada por las que los servidores y máquinas cliente intercambian información. Por ejemplo, un servidor web puede atender simultáneamente las peticiones de páginas web a través del puerto 80 para HTTP y del puerto 443 para HTTPS, mientras un cliente de correo electrónico puede recibir e-mails a través del puerto 993.
 
+## Tarea 11: ¿Cuantos puertos existen?
+
+Hay 65536 puertos aunque no todos se llegan a usar.
+
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
 [enlaceSCESI]: https://www.scesi.org
