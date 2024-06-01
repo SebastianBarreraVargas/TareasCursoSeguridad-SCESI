@@ -91,5 +91,46 @@ Basicamente ayuda a conectarse con el exterior.
   <img src="https://github.com/SebastianBarreraVargas/TareasCursoSeguridad-SCESI/blob/main/ImagenesGeneral/ImagenesClase2/Default-gateway-con-Packet-Tracer.png" alt="Imagen direccion MAC" width="500">
 </p>
 
+# Sabado: Primera clase
+
+Se nos pidio realizar las pruebas de la pagina: `https://overthewire.org/wargames/bandit/`
+
+Aqui adjunto las contraseñas actuales de los minijuegos mas una foto de mi terminal en la que terminaba de realizar el nivel 10.
+
+1. bandit0 (contraseña inicial)
+
+2. NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL (contraseña 0-1)
+
+3. rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi (contraseña 1-2)
+
+4. aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG (contraseña 2-3)
+
+5. 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe (contraseña 3-4)
+
+6. lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR (contraseña 4-5)
+
+7. P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU (contraseña 5-6)
+
+8. z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S (contraseña 6-7)
+
+9. TESKZC0XvTetK0S9xNwm25STk5iWrBvP (contraseña 7-8)
+
+10. EN632PlfYiZbn3PhVK3XOGSlNInNE00t (contraseña 8-9)
+
+11. G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s (contraseña 9-10)
+
+12. 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM (contraseña 10-11)
+
+<p align="center">
+  <img src="" alt="Imagen comprobante nivel 10" width="500">
+</p>
+
+La segunda tarea que era en `https://academy.hackthebox.com/module/details/18`
+Aqui estan los avances:
+
+<p align="center">
+  <img src="" alt="Imagen comprobante hack the box" width="500">
+</p>
+
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
 [enlaceSCESI]: https://www.scesi.org
