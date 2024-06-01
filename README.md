@@ -122,14 +122,14 @@ Aqui adjunto las contraseñas actuales de los minijuegos mas una foto de mi term
 12. 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM (contraseña 10-11)
 
 <p align="center">
-  <img src="" alt="Imagen comprobante nivel 10" width="500">
+  <img src="https://github.com/SebastianBarreraVargas/TareasCursoSeguridad-SCESI/blob/main/ImagenesGeneral/Clase1Sabado/Captura_desde_2024-05-31_16-55-40.png" alt="Imagen comprobante nivel 10" width="500">
 </p>
 
 La segunda tarea que era en `https://academy.hackthebox.com/module/details/18`
 Aqui estan los avances:
 
 <p align="center">
-  <img src="" alt="Imagen comprobante hack the box" width="500">
+  <img src="https://github.com/SebastianBarreraVargas/TareasCursoSeguridad-SCESI/blob/main/ImagenesGeneral/Clase1Sabado/Captura%20de%20pantalla%202024-05-31%20215046.png" alt="Imagen comprobante hack the box" width="500">
 </p>
 
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
