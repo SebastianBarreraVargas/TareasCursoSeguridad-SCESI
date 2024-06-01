@@ -142,5 +142,11 @@ En el caso de los ataques DDoS, se realizan peticiones o conexiones empleando un
 
 Los ordenadores que realizan el ataque DDoS son reclutados mediante la infección de un malware, convirtiéndose así en bots o zombis, capaces de ser controlados de forma remota.
 
+## Tarea 10: ¿Como funcionan los puertos?
+
+Los puertos se utilizan para identificar un terminal de conexión y dirigir datos a un servicio. Hay puertos virtuales y físicos. Los puertos aparecen en la Capa 4, la capa de transporte, del modelo OSI.
+
+Funcionan como puertas de entrada por las que los servidores y máquinas cliente intercambian información. Por ejemplo, un servidor web puede atender simultáneamente las peticiones de páginas web a través del puerto 80 para HTTP y del puerto 443 para HTTPS, mientras un cliente de correo electrónico puede recibir e-mails a través del puerto 993.
+
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
 [enlaceSCESI]: https://www.scesi.org
