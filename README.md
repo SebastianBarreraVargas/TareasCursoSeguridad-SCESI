@@ -125,5 +125,12 @@ Aqui adjunto las contraseñas actuales de los minijuegos mas una foto de mi term
   <img src="" alt="Imagen comprobante nivel 10" width="500">
 </p>
 
+La segunda tarea que era en `https://academy.hackthebox.com/module/details/18`
+Aqui estan los avances:
+
+<p align="center">
+  <img src="" alt="Imagen comprobante hack the box" width="500">
+</p>
+
 [logo-SCESI]: https://github.com/SebastianBarreraVargas/Git/blob/main/Imagenes/scesi-para-fondo-claro-1.png
 [enlaceSCESI]: https://www.scesi.org
